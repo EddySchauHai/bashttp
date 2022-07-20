@@ -1,5 +1,3 @@
 # bashttp
 
-Run a web server on `localhost:1337` or a custom port if an integer is passed to `server.sh` as an argument. 
-
-The result webpage must be `index.html`. 
+A simple web server to host `index.html` with a custom port or `1337` by default. 
